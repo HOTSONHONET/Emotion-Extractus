@@ -8,9 +8,11 @@
 
 >It's a dashboard that enable the user to visualize the in-famous twitter dataset, create word-clouds over different sentiments and last but not the least it offers sentiment extraction from user given input.
 
-Visualzing Data             |  WordCloud
+  Visualzing Data          |  WordCloud
 :-------------------------:|:-------------------------:
 ![](https://drive.google.com/uc?export=view&id=1gt08yvHT5e8HHUvPqPc00N_3DBnTE31X)  |  ![](https://drive.google.com/uc?export=view&id=1d-rG1y4plCdWfjgu1TodWTAAq6itN9zS)
+
+
 
 
 ## FrameWorks Used : 
