@@ -40,6 +40,9 @@
 * This will open up the dashboard in your default browser. 
 * Go to a website or any article and copy the paragraph of your interest. (Below is an example, please don't judge me 😁)
 
-> ![](https://drive.google.com/uc?export=view&id=16a3IXF_vGYNK48wP4A3C_f09A41v_8Oj)
+<img src="https://drive.google.com/uc?export=view&id=16a3IXF_vGYNK48wP4A3C_f09A41v_8Oj" width=auto height=auto>
+
 * Paste the text in the input box of the dashboard and hit ENTER. You will see the hidden contexts in that paragraph.
-> ![](https://drive.google.com/uc?export=view&id=12u5_CwFU0Q5buNEuFmSfIE03Ag2PLIN-)
+
+<img src="https://drive.google.com/uc?export=view&id=12u5_CwFU0Q5buNEuFmSfIE03Ag2PLIN-" width=auto height=auto>
+
