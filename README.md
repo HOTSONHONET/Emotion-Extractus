@@ -1,7 +1,7 @@
 # Context_for_sentiment
 
 ## Interface 
-![](https://github.com/HOTSONHONET/Context_for_sentiment/Working-Images/intro.png)
+![](https://drive.google.com/uc?export=view&id=19tr2ccNn5yb0rCuylzjSjDVLPsGf43-E)
 <br></br>
 ## What is it ?
 
