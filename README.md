@@ -6,7 +6,7 @@
 
 ## What is it ?
 
-It's a dashboard that enable the user to visualize the in-famous twitter dataset, create word-clouds over different sentiments and last but not the least it offers sentiment extraction from user given input.
+It's a dashboard that enables the user to visualize the infamous twitter dataset, create word-clouds over different sentiments and last but not the least it offers sentiment extraction from user given input.
 
 <table>
   <tr>
