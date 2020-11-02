@@ -23,7 +23,7 @@ It's a dashboard that enables the user to visualize the infamous twitter dataset
 * TensorFlow 2.0 
 * Streamlit
 
-## Libraries to install to use it :
+## Libraries required :
 * TensorFlow 2.0 
 * Streamlit
 * Numpy
