@@ -1,4 +1,4 @@
-# Context_for_sentiment
+# Emotion Extractus
 
 ## Interface 
 ![](https://user-images.githubusercontent.com/56304060/97831741-f0a7e680-1cf6-11eb-949a-8f80eaf17abd.png)
