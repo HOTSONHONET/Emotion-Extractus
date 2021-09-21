@@ -33,6 +33,9 @@ It's a dashboard that enables the user to visualize the infamous twitter dataset
 * Matplotlib
 * Pickle
 
+## WorkFlow
+![Template builder](https://user-images.githubusercontent.com/56304060/134165334-018aa282-5f56-4f72-86bd-4ad710c306d9.png)
+
 ## How it works?
 * First, install the above mentioned packages using your package-installer (*pip* for windows or *brew* for MacOS).
 * Open powershell or command prompt in the directory where you have clone this repository and simply type-in the following command "*streamlit run webapp.py*".
